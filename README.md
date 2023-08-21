@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sherlockshit
-- 👀 I’m interested in Drugs
-- 🌱 I’m currently learning Shits
-- 💞️ I’m looking to collaborate on Cracks
-- 📫 How to reach me Down
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me
 
 <!---
 sherlockshit/sherlockshit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
